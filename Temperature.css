@@ -1,0 +1,52 @@
+body {
+    background: #23074d;
+    background: -webkit-linear-gradient(to right, #cc5333, #23074d);
+    background: linear-gradient(to right, #cc5333, #23074d);
+    font-family: cursive;
+    text-align: center;
+}
+
+.title {
+    text-decoration: crimson;
+    text-shadow: 4px 4px 5px #fdbb2d;
+    color: beige;
+}
+
+.content {
+    padding: 10px;
+    margin-top: 70px;
+}
+
+.celsius {
+    margin-right: 40px;
+    font-size: 22px;
+    color: #E9E4F0;
+}
+
+.fahrenheit {
+    font-size: 22px;
+    margin-top: 5px;
+    color: #E9E4F0;
+}
+
+#celsius {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color:black;
+}
+
+#fahrenheit {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: #E9E4F0;
+    font-size: 20px;
+}
